@@ -13,4 +13,4 @@ fjdksj
 
 ~~kdfj~~   `fdjsk`     *jfdkjf*   **fkjdksj**
 
-a [link](www.baidu.com).
+a [link](http://www.baidu.com).

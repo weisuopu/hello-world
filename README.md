@@ -16,7 +16,7 @@ fjdksj
 a [link](http://www.baidu.com).
 
 code `jkfdsjk`
-```c[kdfj]
+```c
 int main(void)
 {
   printf("hello\n");

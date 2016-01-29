@@ -17,7 +17,9 @@ a [link](http://www.baidu.com).
 
 code `jkfdsjk`
 ```c
-fjsdkl
-fjdsk
-kfjd
+int main(void)
+{
+  printf("hello\n");
+  return 0;
+}
 ```

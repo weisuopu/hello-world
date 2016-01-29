@@ -6,9 +6,6 @@ fjs
 ### title2
 fjdsj
 fjdksj
-
-*fjdsj
-
-*fjdsl
-
-*fjdsk
+  *fjdsj
+  *fjdsl
+  *fjdsk
